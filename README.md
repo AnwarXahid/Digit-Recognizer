@@ -3,6 +3,7 @@ This project is developed to participate Entry level kaggle competition.
 
 Dataset: 
 MNIST classic dataset of handwritten images.
+Download from here: https://www.kaggle.com/c/digit-recognizer/data
 
 Goal:
 My goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. 
