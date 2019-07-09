@@ -1,5 +1,5 @@
 # Digit-Recognizer
-This project is developed to participate Entry level kaggle competition.
+This project is developed to participate in Entry level kaggle competition.
 
 Dataset: 
 MNIST classic dataset of handwritten images.
